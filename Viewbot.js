@@ -1,5 +1,5 @@
 const puppeteer = require('puppeteer'); //Thanks to this library
-// Using Headless chrome  
+// Using Headless chrome   
 async function bot() {
     const browser = await puppeteer.launch();
     const page = await browser.newPage(); //opens page
