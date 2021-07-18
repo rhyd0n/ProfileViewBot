@@ -1,3 +1,4 @@
+/* Oh man this project is cringe*/
 const puppeteer = require('puppeteer'); //Thanks to this library
 // Using Headless chrome   
 async function bot() {
